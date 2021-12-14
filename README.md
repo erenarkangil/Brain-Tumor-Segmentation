@@ -1,5 +1,5 @@
 # Brain-Tumor-Segmentation
-Our approach for brats 2019 challange with Tom Nuno Wolf from TUM by using deep learning.
+Our approach for brats 2019 challange with Tony Nuno Wol from TUM by using deep learning.
 
 ## Samples from Training
 
