@@ -1,8 +1,7 @@
 ###
 # Based on https://github.com/QuantScientist/V-Net.pytorch/blob/master/vnet.py
-# Authors:  Tom Nuno Wolf
+# Authors:  Tony Wol
 #           Eren Arkangil
-#           Fikret Yalcinbas
 ###
 
 
